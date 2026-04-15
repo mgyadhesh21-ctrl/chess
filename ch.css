@@ -1,0 +1,14 @@
+p{
+    font-size: 40px;
+    text-align: center;
+}
+p:first-child{
+    background-color: rgb(53, 0, 102);
+    color: aqua;
+}
+p:nth-child(3){
+    background-color: rgb(234, 19, 219);
+}
+p:last-child{
+    background-color: chartreuse;
+}
